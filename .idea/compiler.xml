@@ -23,11 +23,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="api" />
-        <module name="cms" />
-        <module name="common" />
-        <module name="config" />
-        <module name="entities" />
         <module name="koala-base-entities-cms" />
         <module name="koala-base-entities-common" />
         <module name="koala-base-entities-member" />
@@ -42,22 +37,14 @@
         <module name="koala-portal" />
         <module name="koala-utils-common" />
         <module name="koala-utils-config" />
-        <module name="logics" />
-        <module name="member" />
-        <module name="utils" />
-        <module name="ws" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cms" target="1.8" />
-      <module name="common" target="1.8" />
-      <module name="koala" target="1.8" />
       <module name="koala-base" target="1.8" />
       <module name="koala-base-entities" target="1.8" />
       <module name="koala-base-entities-cms" target="1.8" />
       <module name="koala-base-entities-common" target="1.8" />
       <module name="koala-base-entities-member" target="1.8" />
-      <module name="koala-base-entities-member (1)" target="1.8" />
       <module name="koala-base-logics" target="1.8" />
       <module name="koala-base-logics-common" target="1.8" />
       <module name="koala-base-logics-member" target="1.8" />
@@ -70,12 +57,11 @@
       <module name="koala-member" target="1.8" />
       <module name="koala-member-api" target="1.8" />
       <module name="koala-member-ws" target="1.8" />
+      <module name="koala-parent" target="1.8" />
       <module name="koala-portal" target="1.8" />
       <module name="koala-utils" target="1.8" />
       <module name="koala-utils-common" target="1.8" />
       <module name="koala-utils-config" target="1.8" />
-      <module name="member" target="1.8" />
-      <module name="repositories" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../koala-base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../koala-cms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../koala-member" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../koala-portal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../koala-utils" vcs="Git" />
   </component>
 </project>

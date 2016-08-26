@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/koala.iml" filepath="$PROJECT_DIR$/koala.iml" />
       <module fileurl="file://$PROJECT_DIR$/../koala-base/koala-base.iml" filepath="$PROJECT_DIR$/../koala-base/koala-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/../koala-base/entities/koala-base-entities.iml" filepath="$PROJECT_DIR$/../koala-base/entities/koala-base-entities.iml" />
       <module fileurl="file://$PROJECT_DIR$/../koala-base/entities/cms/koala-base-entities-cms.iml" filepath="$PROJECT_DIR$/../koala-base/entities/cms/koala-base-entities-cms.iml" />
@@ -20,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/../koala-member/koala-member.iml" filepath="$PROJECT_DIR$/../koala-member/koala-member.iml" />
       <module fileurl="file://$PROJECT_DIR$/../koala-member/api/koala-member-api.iml" filepath="$PROJECT_DIR$/../koala-member/api/koala-member-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/../koala-member/ws/koala-member-ws.iml" filepath="$PROJECT_DIR$/../koala-member/ws/koala-member-ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/koala-parent.iml" filepath="$PROJECT_DIR$/koala-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/../koala-portal/koala-portal.iml" filepath="$PROJECT_DIR$/../koala-portal/koala-portal.iml" />
       <module fileurl="file://$PROJECT_DIR$/../koala-utils/koala-utils.iml" filepath="$PROJECT_DIR$/../koala-utils/koala-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/../koala-utils/common/koala-utils-common.iml" filepath="$PROJECT_DIR$/../koala-utils/common/koala-utils-common.iml" />

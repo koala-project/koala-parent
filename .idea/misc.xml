@@ -28,40 +28,20 @@
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
-  <component name="EntryPointsManager">
-    <entry_points version="2.0" />
-  </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../koala-portal" />
   </component>
-  <component name="IdProvider" IDEtalkID="9B612D55434808BC7034C08DAAE10F5C" />
+  <component name="IdProvider" IDEtalkID="47FD7A7F14CDD6983A1F9C23E28C46CD" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../koala-base/pom.xml" />
         <option value="$PROJECT_DIR$/../koala-cms/pom.xml" />
         <option value="$PROJECT_DIR$/../koala-member/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-member/api/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-utils/pom.xml" />
         <option value="$PROJECT_DIR$/../koala-portal/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-base/logics/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-base/entities/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-base/repositories/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-base/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-base/entities/cms/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-base/entities/common/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-base/logics/common/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-base/logics/member/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-base/repositories/common/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-base/repositories/member/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-base/entities/member/pom.xml" />
+        <option value="$PROJECT_DIR$/../koala-utils/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/../koala-base-entities/cms/pom.xml" />
-        <option value="$PROJECT_DIR$/../koala-base/common/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -77,8 +57,8 @@
   <component name="ProjectModuleManager">
     <modules />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8.64" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
   </component>
   <component name="PropertiesComponent">
     <property name="GoToClass.includeLibraries" value="false" />
