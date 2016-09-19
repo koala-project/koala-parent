@@ -51,6 +51,7 @@
         <springfox.version>2.2.2</springfox.version>
         <fasterxml.version>0.6.2</fasterxml.version>
         <gson.version>2.2.4</gson.version>
+        <pagehelper.version>4.1.0</pagehelper.version>
     </properties>
 
     <dependencyManagement>
@@ -226,6 +227,11 @@
                 <groupId>io.springfox</groupId>
                 <artifactId>springfox-swagger-ui</artifactId>
                 <version>${springfox.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.pagehelper</groupId>
+                <artifactId>pagehelper</artifactId>
+                <version>${pagehelper.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
