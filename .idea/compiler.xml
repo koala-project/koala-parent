@@ -37,6 +37,7 @@
         <module name="koala-portal" />
         <module name="koala-utils-common" />
         <module name="koala-utils-config" />
+        <module name="koala-utils-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -62,6 +63,7 @@
       <module name="koala-utils" target="1.8" />
       <module name="koala-utils-common" target="1.8" />
       <module name="koala-utils-config" target="1.8" />
+      <module name="koala-utils-gateway" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

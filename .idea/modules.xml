@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/../koala-utils/koala-utils.iml" filepath="$PROJECT_DIR$/../koala-utils/koala-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/../koala-utils/common/koala-utils-common.iml" filepath="$PROJECT_DIR$/../koala-utils/common/koala-utils-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/../koala-utils/config/koala-utils-config.iml" filepath="$PROJECT_DIR$/../koala-utils/config/koala-utils-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-utils/gateway/koala-utils-gateway.iml" filepath="$PROJECT_DIR$/../koala-utils/gateway/koala-utils-gateway.iml" />
     </modules>
   </component>
 </project>
